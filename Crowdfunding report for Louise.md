@@ -8,7 +8,7 @@ We are helping a playwright Louise for her crowdfunding campaign to fund her pla
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![launchdate!]()
+
 
 ### Analysis of Outcomes Based on Goals
 

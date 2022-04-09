@@ -10,7 +10,10 @@
 ### Analysis of Outcomes Based on Launch Date
 ![launchdate!](Theater_Outcomes_vs_Launch.png)
 
+
 ### Analysis of Outcomes Based on Goals
+![Goals!](Outcomes_vs_Goals.png)
+
 
 ### Challenges and Difficulties Encountered
 - The first challenge was that there was huge amount of data to look at, but the pivot table was a very good solution to look at specific items and compare their relationships.

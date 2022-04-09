@@ -27,7 +27,7 @@
 
 ## Results
 ### Two Conclusions about the Theater Outcomes by Launch Date
-- For the blue successful line, we can see an upcliming trend from March and hit the highest end in May. This means that campaigns launched in May got the most successful outcomes. Although the successful outcomes trend started to fall since May, the succussful outcomes from April to August are higher than most of the rest months. It's a good option for Louise to launch her campaign in those months.
+- For the blue successful line, we can see an upcliming trend from March and hit the highest number in May. This means that campaigns launched in May got the most successful outcomes. Although the successful outcomes trend started to fall since May, the succussful outcomes from April to August are higher than most of the rest months. It's a good option for Louise to launch her campaign in those months.
 
 - The blue successful outcome line and the orange failed outcome line almost met in December, which means December is not a good month to launch a crowdfunding campaign, because the successful rate is the lowest of the year.
 
@@ -38,4 +38,4 @@
 - This dataset is not detailed enough for Louise's campaign. It only provides an overall budget amount, but no detailed or break-down budget data of successful campaigns for Louise to take reference to. And if there are outstanding outliers, it could influence the overall analysis.
 
 ### Other tables/graphs recommendation
-- We can also create histogram charts of the budget of successful campaigns in the category of the theaters and the plays in the US to see the distributions. A boxdot chart could also be created to see what the outliers of successful campaigns look like and how do their data influences the overall distribution. We can also see if there are successful campaigns' budget fell on 1.5 IQR and check if the dataset has its value for Louise to take a reference to.
+- We can create histogram charts of the successful campaigns in the category of the theaters and the plays in the US to see the budget range distributions. A boxdot chart could also be created to see the outliers of successful campaigns and go in-depth to check if we can find how their data influences the overall distribution. 

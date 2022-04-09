@@ -33,4 +33,4 @@
 - There is only an overall budget amount, but no detailed break down data from the previous crowdfunding campaigns. So it is a bit ambiguous for Louise to decide the break down of the budget for a successful campaign.
 
 ### Other tables/graphs recommendation
-- We can also create a histogram chart of the budget of successful campaigns in the subcategory of plays in the US to see the distributions. A boxdot chart could also be created to see the outliers of successful compaigns and how do their budgets look like.
+- We can also create a histogram chart of the budget of successful campaigns in the subcategory of plays in the US to see the distributions. A boxdot chart could also be created to see what the outliers of successful compaigns looks like iand how do their budgets influence the overall distribution.
